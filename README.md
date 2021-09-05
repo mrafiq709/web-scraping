@@ -2,7 +2,7 @@
 
 web scraping by python
 
-## Find a website which you want to scrap, see bellow image:
+## Find a website which you want to scrape, see bellow image:
 
 <a href="https://imgur.com/nGl5uGW"><img src="https://i.imgur.com/nGl5uGW.png" title="source: imgur.com" /></a><br/>
 
