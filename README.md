@@ -12,3 +12,15 @@ web scraping by python
 ```
 python3 web-s.py
 ```
+Scrapy
+--------
+```
+sudo apt install python3-pip
+pip3 install pyopenssl --upgrade cryptography
+
+pip3 install scrapy
+sudo apt install python3-scrapy
+pip3 install scrapy-playwright
+python3 -m playwright install
+
+```
